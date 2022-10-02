@@ -20,5 +20,5 @@ NOTE: Few points to higlight
 
 - I can create a Excel sheet for all my Expected results in a excel file which can be stored under src/test/resources. But due to time-constraint I've hardcoded the Expected Value :-(
 
-Finally, Run as TestNG suite and all the 3 test methods are passed.
+Finally, Run SusciptionTest.java as TestNG suite and all the 3 test methods are passed.
 
